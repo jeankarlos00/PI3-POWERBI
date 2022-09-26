@@ -4,16 +4,24 @@ import requests
 from csv import writer
 from datetime import date, datetime
 
+# Cidades
+# Brasilia
+# Goiania
+# Florianopolis
+# Fortaleza
+# Luziania
+# Uberlandia
+
 
 url = 'https://www.gasoradar.com.br/'
-cidades = 'Brasilia'
+cidades = 'Uberlandia'
 tipos_combustivel = ['1', '2', '3', '4', '5']
 nome_tipos_combustivel = ['Gasolina Comum', 'Gasolina Aditivada', 'Etanol', 'Diesel S10', 'GNV']
 
 with open('dados.csv', '+a', encoding='utf8', newline='') as f:
         thewriter = writer(f)
-        header = ['Posto', 'Endereço', 'Estado', 'Preço', 'Tipo', 'Data', 'Hora']
-        thewriter.writerow(header)
+        #header = ['Posto', 'Endereço', 'Estado', 'Preço', 'Tipo', 'Data', 'Hora']
+        #thewriter.writerow(header)
 
         for i, tipoComb in enumerate(tipos_combustivel):
 

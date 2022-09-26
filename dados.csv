@@ -1,42 +1,279 @@
 Posto,Endereço,Estado,Preço,Tipo,Data,Hora
-Posto JP,"Quadra Cnd 05 Lote, 01 Taguatinga",Brasília - DF,"R$ 4,57",Gasolina Comum,2022-09-26,01:18:53
-Posto Auto Shopping,"Qi 19 Lotes 02 e 04, S/n Setor Industrial Taguatinga",Brasília - DF,"R$ 4,58",Gasolina Comum,2022-09-26,01:18:53
-Posto Garantia,"Qi 07 Lotes 01 A 04, S/n Setor de Industria Taguatinga",Brasília - DF,"R$ 4,59",Gasolina Comum,2022-09-26,01:18:53
-Auto Posto NM 16 Taguatinga,"Quadra Qnd 46, 0 Lote 02 Taguatinga Norte",Brasília - DF,"R$ 4,59",Gasolina Comum,2022-09-26,01:18:53
-Posto Pretoline,"Quadra Qi 1 Lotes 79, 81 E, 79 Lote 79 /81 / 83 Taguatinga",Brasília - DF,"R$ 4,59",Gasolina Comum,2022-09-26,01:18:53
-Auto Posto Andrade I,"Quadra Qnn 31, Sn Lote F Ceilândia Norte",Brasília - DF,"R$ 4,59",Gasolina Comum,2022-09-26,01:18:53
-Posto Saída Sul,"Setor Conjunto J Lote 1, S/n Epia Núcleo Bandeirante",Brasília - DF,"R$ 4,63",Gasolina Comum,2022-09-26,01:18:53
-Posto Rede Braga,"Ade Conjunto 5, S/n Lote 28 Águas Claras",Brasília - DF,"R$ 4,74",Gasolina Comum,2022-09-26,01:18:53
-Auto Posto NN 10,"Quadra Qnn 10 Lote Pll, 01 Setor Guariroba Ceilândia",Brasília - DF,"R$ 4,79",Gasolina Comum,2022-09-26,01:18:53
-Posto Setor 0,"Quadra Qno 05 Pll, S/n Ceilândia",Brasília - DF,"R$ 4,98",Gasolina Comum,2022-09-26,01:18:53
-Posto JP,"Quadra Cnd 05 Lote, 01 Taguatinga",Brasília - DF,"R$ 4,57",Gasolina Aditivada,2022-09-26,01:18:54
-Posto Garantia,"Qi 07 Lotes 01 A 04, S/n Setor de Industria Taguatinga",Brasília - DF,"R$ 4,59",Gasolina Aditivada,2022-09-26,01:18:54
-Posto MM,"Qs 414 Conjunto B Lote, 02 Samambaia",Brasília - DF,"R$ 4,69",Gasolina Aditivada,2022-09-26,01:18:54
-Auto Posto Andrade I,"Quadra Qnn 31, Sn Lote F Ceilândia Norte",Brasília - DF,"R$ 4,69",Gasolina Aditivada,2022-09-26,01:18:54
-Posto Auto Shopping,"Qi 19 Lotes 02 e 04, S/n Setor Industrial Taguatinga",Brasília - DF,"R$ 4,73",Gasolina Aditivada,2022-09-26,01:18:54
-Posto Rede Braga,"Ade Conjunto 5, S/n Lote 28 Águas Claras",Brasília - DF,"R$ 4,74",Gasolina Aditivada,2022-09-26,01:18:54
-Auto Posto NM 16 Taguatinga,"Quadra Qnd 46, 0 Lote 02 Taguatinga Norte",Brasília - DF,"R$ 4,74",Gasolina Aditivada,2022-09-26,01:18:54
-Posto Saída Sul,"Setor Conjunto J Lote 1, S/n Epia Núcleo Bandeirante",Brasília - DF,"R$ 4,87",Gasolina Aditivada,2022-09-26,01:18:54
-Posto Setor 0,"Quadra Qno 05 Pll, S/n Ceilândia",Brasília - DF,"R$ 4,98",Gasolina Aditivada,2022-09-26,01:18:54
-Auto Posto JP,"Quadra Qnl 23 Conjunto J Lote, 17 Taguatinga",Brasília - DF,"R$ 4,99",Gasolina Aditivada,2022-09-26,01:18:54
-Posto Pretoline,"Quadra Qi 1 Lotes 79, 81 E, 79 Lote 79 /81 / 83 Taguatinga",Brasília - DF,"R$ 3,29",Etanol,2022-09-26,01:18:54
-Posto Auto Shopping,"Qi 19 Lotes 02 e 04, S/n Setor Industrial Taguatinga",Brasília - DF,"R$ 3,39",Etanol,2022-09-26,01:18:54
-Posto São Judas Tadeu,"Quadra Qnn 04 Lote Pll, 01 Ceilândia",Brasília - DF,"R$ 3,39",Etanol,2022-09-26,01:18:54
-Posto Ceilândia,"Cnm 02 Lote A, S N Ceilândia",Brasília - DF,"R$ 3,59",Etanol,2022-09-26,01:18:54
-Auto Posto Andrade I,"Quadra Qnn 31, Sn Lote F Ceilândia Norte",Brasília - DF,"R$ 3,59",Etanol,2022-09-26,01:18:54
-Posto Original,"Quadra Qi 21 Lote, 2/8 Taguatinga",Brasília - DF,"R$ 3,59",Etanol,2022-09-26,01:18:54
-Posto Comercial Norte,"Qnd 47 Lotes 20 e 21, e Qnd 48, S/n Lote 02 Taguatinga",Brasília - DF,"R$ 3,59",Etanol,2022-09-26,01:18:54
-Posto de Combustíveis NB,"Setor Spms Rodovia Bsb/anapolis Pll 01 Posto 01, S/n Núcleo Bandeirante",Brasília - DF,"R$ 3,65",Etanol,2022-09-26,01:18:54
-Posto JP,"Quadra Cnd 05 Lote, 01 Taguatinga",Brasília - DF,"R$ 3,67",Etanol,2022-09-26,01:18:54
-Posto Garantia,"Qi 07 Lotes 01 A 04, S/n Setor de Industria Taguatinga",Brasília - DF,"R$ 3,69",Etanol,2022-09-26,01:18:54
-Posto Garantia,"Qi 07 Lotes 01 A 04, S/n Setor de Industria Taguatinga",Brasília - DF,"R$ 6,65",Diesel S10,2022-09-26,01:18:54
-Posto Auto Shopping,"Qi 19 Lotes 02 e 04, S/n Setor Industrial Taguatinga",Brasília - DF,"R$ 6,65",Diesel S10,2022-09-26,01:18:54
-Posto São Judas Tadeu,"Quadra Qnn 04 Lote Pll, 01 Ceilândia",Brasília - DF,"R$ 6,65",Diesel S10,2022-09-26,01:18:54
-Posto Pretoline,"Quadra Qi 1 Lotes 79, 81 E, 79 Lote 79 /81 / 83 Taguatinga",Brasília - DF,"R$ 6,69",Diesel S10,2022-09-26,01:18:54
-Posto Petro Alpha,"Quadra Qnl 30 Conjunto A Lote, 12 Taguatinga Norte",Brasília - DF,"R$ 6,75",Diesel S10,2022-09-26,01:18:54
-Posto Original,"Quadra Qi 21 Lote, 2/8 Taguatinga",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,01:18:54
-Posto Colina,"Qno 15, S/n Lote Pll Ceilândia",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,01:18:54
-Posto Comercial Norte,"Qnd 47 Lotes 20 e 21, e Qnd 48, S/n Lote 02 Taguatinga",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,01:18:54
-Auto Posto Turim,"Qi, 05 Lotes 40/42 Taguatinga",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,01:18:54
-Posto Cascol 24,"Quadra Qi 01 Lote 01/02/03/04/05/06, S/n Taguatinga Norte",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,01:18:54
-Posto Guarapari,"Setor Spm Epia Sul Lote, 10 Posto de Gasolina Candangolândia",Brasília - DF,"R$ 6,27",GNV,2022-09-26,01:18:55
+Posto JP,"Quadra Cnd 05 Lote, 01 Taguatinga",Brasília - DF,"R$ 4,57",Gasolina Comum,2022-09-26,18:35:28
+Posto Auto Shopping,"Qi 19 Lotes 02 e 04, S/n Setor Industrial Taguatinga",Brasília - DF,"R$ 4,58",Gasolina Comum,2022-09-26,18:35:28
+Posto Garantia,"Qi 07 Lotes 01 A 04, S/n Setor de Industria Taguatinga",Brasília - DF,"R$ 4,59",Gasolina Comum,2022-09-26,18:35:28
+Auto Posto NM 16 Taguatinga,"Quadra Qnd 46, 0 Lote 02 Taguatinga Norte",Brasília - DF,"R$ 4,59",Gasolina Comum,2022-09-26,18:35:28
+Posto Pretoline,"Quadra Qi 1 Lotes 79, 81 E, 79 Lote 79 /81 / 83 Taguatinga",Brasília - DF,"R$ 4,59",Gasolina Comum,2022-09-26,18:35:28
+Auto Posto Andrade I,"Quadra Qnn 31, Sn Lote F Ceilândia Norte",Brasília - DF,"R$ 4,59",Gasolina Comum,2022-09-26,18:35:28
+Posto Saída Sul,"Setor Conjunto J Lote 1, S/n Epia Núcleo Bandeirante",Brasília - DF,"R$ 4,63",Gasolina Comum,2022-09-26,18:35:28
+Posto Rede Braga,"Ade Conjunto 5, S/n Lote 28 Águas Claras",Brasília - DF,"R$ 4,74",Gasolina Comum,2022-09-26,18:35:28
+Auto Posto NN 10,"Quadra Qnn 10 Lote Pll, 01 Setor Guariroba Ceilândia",Brasília - DF,"R$ 4,79",Gasolina Comum,2022-09-26,18:35:28
+Posto Setor 0,"Quadra Qno 05 Pll, S/n Ceilândia",Brasília - DF,"R$ 4,98",Gasolina Comum,2022-09-26,18:35:28
+Posto JP,"Quadra Cnd 05 Lote, 01 Taguatinga",Brasília - DF,"R$ 4,57",Gasolina Aditivada,2022-09-26,18:35:29
+Posto Garantia,"Qi 07 Lotes 01 A 04, S/n Setor de Industria Taguatinga",Brasília - DF,"R$ 4,59",Gasolina Aditivada,2022-09-26,18:35:29
+Auto Posto Andrade I,"Quadra Qnn 31, Sn Lote F Ceilândia Norte",Brasília - DF,"R$ 4,69",Gasolina Aditivada,2022-09-26,18:35:29
+Posto MM,"Qs 414 Conjunto B Lote, 02 Samambaia",Brasília - DF,"R$ 4,69",Gasolina Aditivada,2022-09-26,18:35:29
+Posto Auto Shopping,"Qi 19 Lotes 02 e 04, S/n Setor Industrial Taguatinga",Brasília - DF,"R$ 4,73",Gasolina Aditivada,2022-09-26,18:35:29
+Posto Rede Braga,"Ade Conjunto 5, S/n Lote 28 Águas Claras",Brasília - DF,"R$ 4,74",Gasolina Aditivada,2022-09-26,18:35:29
+Auto Posto NM 16 Taguatinga,"Quadra Qnd 46, 0 Lote 02 Taguatinga Norte",Brasília - DF,"R$ 4,74",Gasolina Aditivada,2022-09-26,18:35:29
+Posto Saída Sul,"Setor Conjunto J Lote 1, S/n Epia Núcleo Bandeirante",Brasília - DF,"R$ 4,87",Gasolina Aditivada,2022-09-26,18:35:29
+Posto Setor 0,"Quadra Qno 05 Pll, S/n Ceilândia",Brasília - DF,"R$ 4,98",Gasolina Aditivada,2022-09-26,18:35:29
+Auto Posto JP,"Quadra Qnl 23 Conjunto J Lote, 17 Taguatinga",Brasília - DF,"R$ 4,99",Gasolina Aditivada,2022-09-26,18:35:29
+Posto Pretoline,"Quadra Qi 1 Lotes 79, 81 E, 79 Lote 79 /81 / 83 Taguatinga",Brasília - DF,"R$ 3,29",Etanol,2022-09-26,18:35:30
+Posto Auto Shopping,"Qi 19 Lotes 02 e 04, S/n Setor Industrial Taguatinga",Brasília - DF,"R$ 3,39",Etanol,2022-09-26,18:35:30
+Posto São Judas Tadeu,"Quadra Qnn 04 Lote Pll, 01 Ceilândia",Brasília - DF,"R$ 3,39",Etanol,2022-09-26,18:35:30
+Posto Ceilândia,"Cnm 02 Lote A, S N Ceilândia",Brasília - DF,"R$ 3,59",Etanol,2022-09-26,18:35:30
+Auto Posto Andrade I,"Quadra Qnn 31, Sn Lote F Ceilândia Norte",Brasília - DF,"R$ 3,59",Etanol,2022-09-26,18:35:30
+Posto Original,"Quadra Qi 21 Lote, 2/8 Taguatinga",Brasília - DF,"R$ 3,59",Etanol,2022-09-26,18:35:30
+Posto Comercial Norte,"Qnd 47 Lotes 20 e 21, e Qnd 48, S/n Lote 02 Taguatinga",Brasília - DF,"R$ 3,59",Etanol,2022-09-26,18:35:30
+Posto de Combustíveis NB,"Setor Spms Rodovia Bsb/anapolis Pll 01 Posto 01, S/n Núcleo Bandeirante",Brasília - DF,"R$ 3,65",Etanol,2022-09-26,18:35:30
+Posto JP,"Quadra Cnd 05 Lote, 01 Taguatinga",Brasília - DF,"R$ 3,67",Etanol,2022-09-26,18:35:30
+Posto Garantia,"Qi 07 Lotes 01 A 04, S/n Setor de Industria Taguatinga",Brasília - DF,"R$ 3,69",Etanol,2022-09-26,18:35:30
+Posto Garantia,"Qi 07 Lotes 01 A 04, S/n Setor de Industria Taguatinga",Brasília - DF,"R$ 6,65",Diesel S10,2022-09-26,18:35:31
+Posto Auto Shopping,"Qi 19 Lotes 02 e 04, S/n Setor Industrial Taguatinga",Brasília - DF,"R$ 6,65",Diesel S10,2022-09-26,18:35:31
+Posto São Judas Tadeu,"Quadra Qnn 04 Lote Pll, 01 Ceilândia",Brasília - DF,"R$ 6,65",Diesel S10,2022-09-26,18:35:31
+Posto Pretoline,"Quadra Qi 1 Lotes 79, 81 E, 79 Lote 79 /81 / 83 Taguatinga",Brasília - DF,"R$ 6,69",Diesel S10,2022-09-26,18:35:31
+Posto Petro Alpha,"Quadra Qnl 30 Conjunto A Lote, 12 Taguatinga Norte",Brasília - DF,"R$ 6,75",Diesel S10,2022-09-26,18:35:31
+Posto Original,"Quadra Qi 21 Lote, 2/8 Taguatinga",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,18:35:31
+Posto Comercial Norte,"Qnd 47 Lotes 20 e 21, e Qnd 48, S/n Lote 02 Taguatinga",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,18:35:31
+Posto Colina,"Qno 15, S/n Lote Pll Ceilândia",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,18:35:31
+Posto Cascol 24,"Quadra Qi 01 Lote 01/02/03/04/05/06, S/n Taguatinga Norte",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,18:35:31
+Auto Posto Turim,"Qi, 05 Lotes 40/42 Taguatinga",Brasília - DF,"R$ 6,79",Diesel S10,2022-09-26,18:35:31
+Posto Guarapari,"Setor Spm Epia Sul Lote, 10 Posto de Gasolina Candangolândia",Brasília - DF,"R$ 6,27",GNV,2022-09-26,18:35:31
+T7 Auto Posto,"Avenida T 7, 30 Quadrar30 Lote 01 Setor Oeste",Goiânia - GO,"R$ 4,46",Gasolina Comum,2022-09-26,18:36:02
+Auto Posto Ouro Negro,"Avenida Rio Verde, 5250 Qd. 90 Lt. 1,2,3 e 4 Vila Rosa",Goiânia - GO,"R$ 4,47",Gasolina Comum,2022-09-26,18:36:02
+Posto Goianão,"Rodovia BR 153, S/N Alto da Glória",Goiânia - GO,"R$ 4,49",Gasolina Comum,2022-09-26,18:36:02
+Posto Mônaco,"Avenida Rio Verde, 2608 Qd.29 Lote 15 Vila Rosa",Goiânia - GO,"R$ 4,57",Gasolina Comum,2022-09-26,18:36:02
+Posto A4,"Avenida Vera Cruz, 40 Quadra18 Lote 1/2 Jardim Guanabara",Goiânia - GO,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:02
+Renascer Combustíveis,"Avenida D, 300 Quadra31 Lote 04 Jardim Santo Antônio",Goiânia - GO,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:02
+Posto Radial,"Rua 82, 359 Setor Sul",Goiânia - GO,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:02
+Posto T-4,"Rua T 58, 85 Setor Bueno",Goiânia - GO,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:02
+Posto LE Combustíveis,"Avenida Independência, 2693 Setor Leste Vila Nova",Goiânia - GO,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:02
+Posto A2,"Avenida Circular, 1148 Setor Pedro Ludovico",Goiânia - GO,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:02
+Auto Posto Ouro Negro,"Avenida Rio Verde, 5250 Qd. 90 Lt. 1,2,3 e 4 Vila Rosa",Goiânia - GO,"R$ 4,48",Gasolina Aditivada,2022-09-26,18:36:02
+Posto Goianão,"Rodovia BR 153, S/N Alto da Glória",Goiânia - GO,"R$ 4,59",Gasolina Aditivada,2022-09-26,18:36:02
+ Posto T-15,"Avenida T 15, S/N Parque Amazônia",Goiânia - GO,"R$ 4,61",Gasolina Aditivada,2022-09-26,18:36:02
+Posto Mônaco,"Avenida Rio Verde, 2608 Qd.29 Lote 15 Vila Rosa",Goiânia - GO,"R$ 4,62",Gasolina Aditivada,2022-09-26,18:36:02
+Posto LE Combustíveis,"Avenida Independência, 2693 Setor Leste Vila Nova",Goiânia - GO,"R$ 4,64",Gasolina Aditivada,2022-09-26,18:36:02
+Posto T-4,"Rua T 58, 85 Setor Bueno",Goiânia - GO,"R$ 4,74",Gasolina Aditivada,2022-09-26,18:36:02
+Posto Korujão VII,"Avenida Independência, 1577 Setor Leste Vila Nova",Goiânia - GO,"R$ 4,79",Gasolina Aditivada,2022-09-26,18:36:02
+Posto do Boi,"Avenida Independencia, 2.908 Vila Nova",Goiânia - GO,"R$ 4,79",Gasolina Aditivada,2022-09-26,18:36:02
+Auto Posto Reis,"Avenida Anhanguera, 2587 Setor Leste Universitário",Goiânia - GO,"R$ 4,79",Gasolina Aditivada,2022-09-26,18:36:02
+Posto Paranaíba,"Avenida Paranaiba, 1273 Quadra27 Lote 36e Setor Central",Goiânia - GO,"R$ 4,79",Gasolina Aditivada,2022-09-26,18:36:02
+Auto Posto Ouro Negro,"Avenida Rio Verde, 5250 Qd. 90 Lt. 1,2,3 e 4 Vila Rosa",Goiânia - GO,"R$ 2,97",Etanol,2022-09-26,18:36:03
+T7 Auto Posto,"Avenida T 7, 30 Quadrar30 Lote 01 Setor Oeste",Goiânia - GO,"R$ 2,98",Etanol,2022-09-26,18:36:03
+Posto Oliveira,"Avenida Vereador Jose Monteiro, 1854 Quadra08 Lo Setor Negrão de Lima",Goiânia - GO,"R$ 2,98",Etanol,2022-09-26,18:36:03
+Posto Farol,"Avenida Independência, 2814 Setor Leste Vila Nova",Goiânia - GO,"R$ 2,99",Etanol,2022-09-26,18:36:03
+Posto Goianão,"Rodovia BR 153, S/N Alto da Glória",Goiânia - GO,"R$ 2,99",Etanol,2022-09-26,18:36:03
+Auto Posto Reis,"Avenida Anhanguera, 2587 Setor Leste Universitário",Goiânia - GO,"R$ 2,99",Etanol,2022-09-26,18:36:03
+Posto T-4,"Rua T 58, 85 Setor Bueno",Goiânia - GO,"R$ 2,99",Etanol,2022-09-26,18:36:03
+Posto Paranaíba,"Avenida Paranaiba, 1273 Quadra27 Lote 36e Setor Central",Goiânia - GO,"R$ 3,04",Etanol,2022-09-26,18:36:03
+Posto Mônaco,"Avenida Rio Verde, 2608 Qd.29 Lote 15 Vila Rosa",Goiânia - GO,"R$ 3,07",Etanol,2022-09-26,18:36:03
+Posto LE Combustíveis,"Avenida Independência, 2693 Setor Leste Vila Nova",Goiânia - GO,"R$ 3,08",Etanol,2022-09-26,18:36:03
+Auto Posto Reis,"Avenida Anhanguera, 2587 Setor Leste Universitário",Goiânia - GO,"R$ 6,69",Diesel S10,2022-09-26,18:36:04
+Auto Posto Bonzão,"Avenida Vera Cruz, 732 Qd 32 A Lote 05 Jardim Guanabara",Goiânia - GO,"R$ 6,78",Diesel S10,2022-09-26,18:36:04
+Mammut Auto Posto,"Avenida Vera Cruz, 1867 Quadra120 Lote 1/3 Jardim Guanabara",Goiânia - GO,"R$ 6,78",Diesel S10,2022-09-26,18:36:04
+Posto Boa Viagem,"Avenida Anhanguera, 2075 Setor Leste Universitário",Goiânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:04
+Posto A4,"Avenida Vera Cruz, 40 Quadra18 Lote 1/2 Jardim Guanabara",Goiânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:04
+Posto Goianão,"Rodovia BR 153, S/N Alto da Glória",Goiânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:04
+Hiper Moreira Auto Center,"Avenida T-1, 155 Quadra19 Lote 11 Setor Bueno",Goiânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:04
+Posto Jardim Guanabara,"Avenida Vera Cruz, 822 Qd. 47 - Lt. 01a Jardim Guanabara",Goiânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:04
+Hiper Moreira Auto Center,"Avenida Assis Chateaubriand, 2055 Qda R 22 Lote 10 E Setor Oeste",Goiânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:04
+Posto Chardon,"Alameda do Contorno, 2542 Jardim Santo Antônio",Goiânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:04
+Posto Seguro,"Rodovia BR 060, S/N Recreio do Funcionário Público",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Auto Posto Madri,"Avenida Ville, S/N Jardins Madri Complemento",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Posto Jardim Ipê,"Avenida Goiás Norte, 8061 Jardim Ipê",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Posto J Ferro,"Avenida Anhanguera, 10.049 Rodoviário",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Auto Posto Castelo,"Avenida Castelo Branco, 3739 Setor Rodoviário",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Posto Carrefour,"Avenida T 9, S/N Vila Bela",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Posto Carrefour,"Avenida Deputado Jamel Cecílio, 3900 Jardim Goiás",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Atacadão Posto,"Avenida Goiás, 6505 Setor Urias Magalhães",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Posto 2000,"Avenida T 9, 5059 Jardim Planalto",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Posto Paraúna,"Rua da Alegria, 560 Vila Santa Rita",Goiânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:04
+Posto Jóia,"Avenida Mauro Ramos, 1153 Centro",Florianópolis - SC,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:10
+SC combustíveis,"Rua Silva Jardim, 73 Centro",Florianópolis - SC,"R$ 4,69",Gasolina Comum,2022-09-26,18:36:10
+Posto Central,"Rua Crispim Mira, 179  Centro",Florianópolis - SC,"R$ 4,88",Gasolina Comum,2022-09-26,18:36:10
+Posto Carolina,"Avenida Atlantica, 1500 Jardim Atlântico",Florianópolis - SC,"R$ 4,93",Gasolina Comum,2022-09-26,18:36:10
+Auto Posto Monte Cristo,"Rua Professor Egidio Ferreira, 1.233 Monte Cristo",Florianópolis - SC,"R$ 4,93",Gasolina Comum,2022-09-26,18:36:10
+Posto Pit Stop,"Avenida Governador Ivo Silveira, 1840 Capoeiras",Florianópolis - SC,"R$ 4,93",Gasolina Comum,2022-09-26,18:36:10
+Posto Capoeiras,"Rua Waldemar Ouriques, 739 Capoeiras",Florianópolis - SC,"R$ 4,93",Gasolina Comum,2022-09-26,18:36:10
+Posto Brasol,"Avenida Governador Ivo Silveira, 2.642 Capoeiras",Florianópolis - SC,"R$ 4,93",Gasolina Comum,2022-09-26,18:36:10
+Posto Economic,"Rua Coronel Pedro Demoro, 1760 Balneário",Florianópolis - SC,"R$ 4,95",Gasolina Comum,2022-09-26,18:36:10
+Posto Capoeiras,"Rua Paralela Novo Horizonte, 3530 Capoeiras",Florianópolis - SC,"R$ 4,96",Gasolina Comum,2022-09-26,18:36:10
+Posto Jóia,"Avenida Mauro Ramos, 1153 Centro",Florianópolis - SC,"R$ 4,62",Gasolina Aditivada,2022-09-26,18:36:10
+Posto Brasol,"Avenida Governador Ivo Silveira, 2.642 Capoeiras",Florianópolis - SC,"R$ 4,93",Gasolina Aditivada,2022-09-26,18:36:10
+Posto Capoeiras,"Rua Waldemar Ouriques, 739 Capoeiras",Florianópolis - SC,"R$ 4,93",Gasolina Aditivada,2022-09-26,18:36:10
+Auto Posto Monte Cristo,"Rua Professor Egidio Ferreira, 1.233 Monte Cristo",Florianópolis - SC,"R$ 4,93",Gasolina Aditivada,2022-09-26,18:36:10
+Posto Carolina,"Avenida Atlantica, 1500 Jardim Atlântico",Florianópolis - SC,"R$ 4,93",Gasolina Aditivada,2022-09-26,18:36:10
+Posto Pit Stop,"Avenida Governador Ivo Silveira, 1840 Capoeiras",Florianópolis - SC,"R$ 4,93",Gasolina Aditivada,2022-09-26,18:36:10
+Posto Costeira,"Avenida Jorge Lacerda, 1403 Costeira do Pirajubaé",Florianópolis - SC,"R$ 4,96",Gasolina Aditivada,2022-09-26,18:36:10
+Posto Real Petro,"Avenida Josué di Bernardi, 505 Campinas",Florianópolis - SC,"R$ 4,99",Gasolina Aditivada,2022-09-26,18:36:10
+Posto Economic,"Rua Coronel Pedro Demoro, 1760 Balneário",Florianópolis - SC,"R$ 5,05",Gasolina Aditivada,2022-09-26,18:36:10
+Posto Central,"Rua Crispim Mira, 179  Centro",Florianópolis - SC,"R$ 5,09",Gasolina Aditivada,2022-09-26,18:36:10
+Auto Posto Monte Cristo,"Rua Professor Egidio Ferreira, 1.233 Monte Cristo",Florianópolis - SC,"R$ 3,69",Etanol,2022-09-26,18:36:11
+SC combustíveis,"Rua Silva Jardim, 73 Centro",Florianópolis - SC,"R$ 3,69",Etanol,2022-09-26,18:36:11
+Posto Jóia,"Avenida Mauro Ramos, 1153 Centro",Florianópolis - SC,"R$ 3,76",Etanol,2022-09-26,18:36:11
+Posto Jóia,"Rua General Eurico Gaspar Dutra, 957 Estreito",Florianópolis - SC,"R$ 3,99",Etanol,2022-09-26,18:36:11
+Posto Pit Stop,"Avenida Governador Ivo Silveira, 1840 Capoeiras",Florianópolis - SC,"R$ 3,99",Etanol,2022-09-26,18:36:11
+Posto Parque São Jorge,"Rodovia Admar Gonzaga, 2565 Itacorubi",Florianópolis - SC,"R$ 3,99",Etanol,2022-09-26,18:36:11
+Posto Brasol,"Avenida Governador Ivo Silveira, 2.642 Capoeiras",Florianópolis - SC,"R$ 3,99",Etanol,2022-09-26,18:36:11
+Posto Vila Rica,"Avenida Mauro Ramos, 390 Terreo Centro",Florianópolis - SC,"R$ 4,19",Etanol,2022-09-26,18:36:11
+Posto Economic,"Rua Prefeito Dib Cherem, 2.335 Capoeiras",Florianópolis - SC,"R$ 4,24",Etanol,2022-09-26,18:36:11
+Posto Agricopel - Filial 53,"Avenida Paulo Fontes, 1136 Centro",Florianópolis - SC,"R$ 4,49",Etanol,2022-09-26,18:36:11
+Posto Capoeiras,"Rua Waldemar Ouriques, 739 Capoeiras",Florianópolis - SC,"R$ 6,71",Diesel S10,2022-09-26,18:36:12
+Posto Marquinhos Capoeiras,"Avenidas Patricio Caldeira de Andrade, 1270 Capoeiras",Florianópolis - SC,"R$ 6,79",Diesel S10,2022-09-26,18:36:12
+Posto Angeloni - Governador Ivo Silveira,"Avenida Governador Ivo Silveira, 3664  Capoeiras",Florianópolis - SC,"R$ 6,79",Diesel S10,2022-09-26,18:36:12
+Posto Economic,"Rua Prefeito Dib Cherem, 2.335 Capoeiras",Florianópolis - SC,"R$ 6,89",Diesel S10,2022-09-26,18:36:12
+Posto Economic,"Rua Coronel Pedro Demoro, 1760 Balneário",Florianópolis - SC,"R$ 6,96",Diesel S10,2022-09-26,18:36:12
+Posto Jóia,"Rua General Eurico Gaspar Dutra, 957 Estreito",Florianópolis - SC,"R$ 6,99",Diesel S10,2022-09-26,18:36:12
+Posto Galo 12,"Rua Eurico Gaspar Dutra, 865 Esq. Santos Saraiva Estreito",Florianópolis - SC,"R$ 6,99",Diesel S10,2022-09-26,18:36:12
+Posto Vila Rica,"Avenida Mauro Ramos, 390 Terreo Centro",Florianópolis - SC,"R$ 6,99",Diesel S10,2022-09-26,18:36:12
+Posto Galo 5,"Rua Henrigue Veras Nascimento, 270 0 Lagoa da Conceição",Florianópolis - SC,"R$ 6,99",Diesel S10,2022-09-26,18:36:12
+Posto Mdestri,"Rua Almirante Alvim, 515 Centro",Florianópolis - SC,"R$ 6,99",Diesel S10,2022-09-26,18:36:12
+Posto Angeloni - Governador Ivo Silveira,"Avenida Governador Ivo Silveira, 3664  Capoeiras",Florianópolis - SC,"R$ 5,89",GNV,2022-09-26,18:36:12
+Posto Capoeiras,"Rua Paralela Novo Horizonte, 3530 Capoeiras",Florianópolis - SC,"R$ 5,89",GNV,2022-09-26,18:36:12
+Posto Real Petro,"Avenida Josué di Bernardi, 505 Campinas",Florianópolis - SC,"R$ 5,89",GNV,2022-09-26,18:36:12
+Posto Farol da Ilha,"Rua Professora Sofia Quint de Souza, 349 Capoeiras",Florianópolis - SC,"R$ 5,89",GNV,2022-09-26,18:36:12
+Posto Jóia,"Rua General Eurico Gaspar Dutra, 957 Estreito",Florianópolis - SC,"R$ 5,99",GNV,2022-09-26,18:36:12
+Posto São Domingos,"Avenida Mister Hull, 4000 Antônio Bezerra",Fortaleza - CE,"R$ 4,63",Gasolina Comum,2022-09-26,18:36:21
+Posto II Pvex Norte,"Rua Coronel Matos Dourado, 814 Antônio Bezerra",Fortaleza - CE,"R$ 4,63",Gasolina Comum,2022-09-26,18:36:21
+Petrocar 3,"Rua Felino Barroso, 52 Fátima",Fortaleza - CE,"R$ 4,63",Gasolina Comum,2022-09-26,18:36:21
+Posto Macuxi,"Avenida Pontes Vieira, 1485 Dionisio Torres",Fortaleza - CE,"R$ 4,63",Gasolina Comum,2022-09-26,18:36:21
+Posto Dallas,"Avenida Godofredo Maciel, 1725 Maraponga",Fortaleza - CE,"R$ 4,68",Gasolina Comum,2022-09-26,18:36:21
+Posto Alfa,"Avenida Presidente Castelo Branco, 3100 Pirambu",Fortaleza - CE,"R$ 4,74",Gasolina Comum,2022-09-26,18:36:21
+Posto San Lorenzo,"Rua Almirante Rubim, 1640 Itaoca",Fortaleza - CE,"R$ 4,74",Gasolina Comum,2022-09-26,18:36:21
+Posto Rodão,"Rua Benjamim Brasil, 1585 Mondubim",Fortaleza - CE,"R$ 4,75",Gasolina Comum,2022-09-26,18:36:21
+Posto Passare,"Avenida Doutor Silas Munguba, 5555 Boa Vista",Fortaleza - CE,"R$ 4,75",Gasolina Comum,2022-09-26,18:36:21
+Posto Uirapuru,"Avenida Alberto Craveiro, 1973 Boa Vista",Fortaleza - CE,"R$ 4,75",Gasolina Comum,2022-09-26,18:36:21
+Posto II Pvex Norte,"Rua Coronel Matos Dourado, 814 Antônio Bezerra",Fortaleza - CE,"R$ 4,63",Gasolina Aditivada,2022-09-26,18:36:22
+Posto Macuxi,"Avenida Pontes Vieira, 1485 Dionisio Torres",Fortaleza - CE,"R$ 4,75",Gasolina Aditivada,2022-09-26,18:36:22
+Postos OM,"Avenida Professor Gomes de Matos, 1166 Montese",Fortaleza - CE,"R$ 4,78",Gasolina Aditivada,2022-09-26,18:36:22
+Posto Dallas,"Avenida Godofredo Maciel, 1725 Maraponga",Fortaleza - CE,"R$ 4,79",Gasolina Aditivada,2022-09-26,18:36:22
+Postos OM,"Rua 24 de Maio, 1230 Centro",Fortaleza - CE,"R$ 4,82",Gasolina Aditivada,2022-09-26,18:36:22
+Posto San Lorenzo,"Rua Almirante Rubim, 1640 Itaoca",Fortaleza - CE,"R$ 4,84",Gasolina Aditivada,2022-09-26,18:36:22
+Posto Rodão,"Rua Benjamim Brasil, 1585 Mondubim",Fortaleza - CE,"R$ 4,84",Gasolina Aditivada,2022-09-26,18:36:22
+Posto Dallas,"Rua Alvaro de Alencar, 787 Carlito Pamplona",Fortaleza - CE,"R$ 4,84",Gasolina Aditivada,2022-09-26,18:36:22
+Posto Shoping Mangue,"Avenida Governador Raul Barbosa, 900 São João do Tauape",Fortaleza - CE,"R$ 4,88",Gasolina Aditivada,2022-09-26,18:36:22
+Posto JP,"Avenida Godofredo Maciel, 3959 4015 A Mondubim",Fortaleza - CE,"R$ 4,91",Gasolina Aditivada,2022-09-26,18:36:22
+Posto II Pvex Norte,"Rua Coronel Matos Dourado, 814 Antônio Bezerra",Fortaleza - CE,"R$ 3,99",Etanol,2022-09-26,18:36:23
+Postos OM,"Rua 24 de Maio, 1230 Centro",Fortaleza - CE,"R$ 3,99",Etanol,2022-09-26,18:36:23
+Postos OM,"Avenida Professor Gomes de Matos, 1166 Montese",Fortaleza - CE,"R$ 3,99",Etanol,2022-09-26,18:36:23
+Posto São Domingos,"Avenida Mister Hull, 4000 Antônio Bezerra",Fortaleza - CE,"R$ 4,09",Etanol,2022-09-26,18:36:23
+Posto Cauipe,"Avenida Carapinima, 1756 Benfica",Fortaleza - CE,"R$ 4,29",Etanol,2022-09-26,18:36:23
+Posto Cauipe,"Avenida Generalosorio de Paiva, 2818 Bonsucesso",Fortaleza - CE,"R$ 4,29",Etanol,2022-09-26,18:36:23
+Petrocar 3,"Rua Felino Barroso, 52 Fátima",Fortaleza - CE,"R$ 4,29",Etanol,2022-09-26,18:36:23
+Posto San Lorenzo,"Rua Almirante Rubim, 1640 Itaoca",Fortaleza - CE,"R$ 4,29",Etanol,2022-09-26,18:36:23
+Posto Alfa,"Avenida Presidente Castelo Branco, 3100 Pirambu",Fortaleza - CE,"R$ 4,29",Etanol,2022-09-26,18:36:23
+Posto Ultra,"Avenida dos Expedicionarios, 8710	 Serrinha",Fortaleza - CE,"R$ 4,33",Etanol,2022-09-26,18:36:23
+Posto JP,"Avenida Godofredo Maciel, 3959 4015 A Mondubim",Fortaleza - CE,"R$ 6,57",Diesel S10,2022-09-26,18:36:23
+Postos OM,"Avenida Professor Gomes de Matos, 1166 Montese",Fortaleza - CE,"R$ 6,59",Diesel S10,2022-09-26,18:36:23
+Posto São Francisco,"Avenida Jornalista Tomaz Coelho, 410 Messejana",Fortaleza - CE,"R$ 6,59",Diesel S10,2022-09-26,18:36:23
+Posto Ceará II,"Rua Conego de Castro, 6041 Parque Santa Rosa",Fortaleza - CE,"R$ 6,59",Diesel S10,2022-09-26,18:36:23
+Posto San Lorenzo,"Rua Almirante Rubim, 1640 Itaoca",Fortaleza - CE,"R$ 6,59",Diesel S10,2022-09-26,18:36:23
+Petrocar 3,"Rua Felino Barroso, 52 Fátima",Fortaleza - CE,"R$ 6,59",Diesel S10,2022-09-26,18:36:23
+Posto Cauipe,"Avenida Carapinima, 1756 Benfica",Fortaleza - CE,"R$ 6,65",Diesel S10,2022-09-26,18:36:23
+Posto Nossa Senhora Aparecida,"Rua Barao de Sobral, 311 Montese",Fortaleza - CE,"R$ 6,65",Diesel S10,2022-09-26,18:36:23
+Posto São Domingos,"Avenida Mister Hull, 4000 Antônio Bezerra",Fortaleza - CE,"R$ 6,67",Diesel S10,2022-09-26,18:36:23
+Posto II Pvex Norte,"Rua Coronel Matos Dourado, 814 Antônio Bezerra",Fortaleza - CE,"R$ 6,67",Diesel S10,2022-09-26,18:36:23
+Posto Atlântico,"Avenida da Abolição, 3395 Varjota",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Modelo 2001,"Avenida Barão de Studart, 2255 Aldeota",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Marina,"Avenida Presidente Castelo Branco, 240 Centro",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Cometa,"Avenida da Abolição, 3998 Mucuripe",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Reis Magos II,"Avenida Washington Soares, 611 Edson Queiroz",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Aliança,"Avenida Santos Dumont, 5450 Papicu",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Monsenhor Tabosa,"Avenida Monsenhor Tabosa, 1054 Meireles",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Cauipe,"Rodovia Br 116 Km 10.4, S/n Messejana",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Shopping,"Avenida Engenheiro Santana Júnior, 1240 Papicu",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Dom Manuel,"Rua Pero Coelho, 271 Centro",Fortaleza - CE,"R$ 4,49",GNV,2022-09-26,18:36:24
+Posto Luziânia,"Rua Sebastião Elias, 28 Centro",Luziânia - GO,"R$ 4,71",Gasolina Comum,2022-09-26,18:36:27
+Posto Petros III,"Rua Seis, S/N Jardim Zuleika Maria de Brasília",Luziânia - GO,"R$ 4,73",Gasolina Comum,2022-09-26,18:36:27
+Posto Petros,"Rua São Paulo, S/N Cidade Osfaya",Luziânia - GO,"R$ 4,73",Gasolina Comum,2022-09-26,18:36:27
+Posto Kurujão 43,"Avenida Lucena Roriz, S/N Parque Estrela Dalva IX",Luziânia - GO,"R$ 4,74",Gasolina Comum,2022-09-26,18:36:27
+Posto Romeiros 4,"Avenida Santa Maria, S/N Setor Aeroporto",Luziânia - GO,"R$ 4,76",Gasolina Comum,2022-09-26,18:36:27
+Auto Posto Park JK,"Avenida Dona Sara Kubitschek, S/N Parque JK",Luziânia - GO,"R$ 4,78",Gasolina Comum,2022-09-26,18:36:27
+Posto Santa Maria,"Rua do Comércio, 156 Centro",Luziânia - GO,"R$ 4,79",Gasolina Comum,2022-09-26,18:36:27
+Posto Sansão,"Avenida Alfredo Nasser, S/N Parque Estrela Dalva I",Luziânia - GO,"R$ 4,79",Gasolina Comum,2022-09-26,18:36:27
+Posto Independência,"Avenida Joventino Rodrigues, S/N Santa Luzia",Luziânia - GO,"R$ 4,79",Gasolina Comum,2022-09-26,18:36:27
+Posto Alpha,"Avenida Dona Sara Kubitschek, S/N Parque JK",Luziânia - GO,"R$ 4,84",Gasolina Comum,2022-09-26,18:36:27
+Posto Luziânia,"Rua Sebastião Elias, 28 Centro",Luziânia - GO,"R$ 4,71",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Petros,"Rua São Paulo, S/N Cidade Osfaya",Luziânia - GO,"R$ 4,73",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Petros III,"Rua Seis, S/N Jardim Zuleika Maria de Brasília",Luziânia - GO,"R$ 4,73",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Romeiros 4,"Avenida Santa Maria, S/N Setor Aeroporto",Luziânia - GO,"R$ 4,76",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Kurujão 43,"Avenida Lucena Roriz, S/N Parque Estrela Dalva IX",Luziânia - GO,"R$ 4,84",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Independência,"Avenida Joventino Rodrigues, S/N Santa Luzia",Luziânia - GO,"R$ 4,88",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Santa Maria,"Rua do Comércio, 156 Centro",Luziânia - GO,"R$ 4,88",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Sansão,"Avenida Alfredo Nasser, S/N Parque Estrela Dalva I",Luziânia - GO,"R$ 4,88",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Alpha,"Avenida Dona Sara Kubitschek, S/N Parque JK",Luziânia - GO,"R$ 4,91",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Novo Samambaia,"Rodovia GO 010, Km 140 Zona Rural",Luziânia - GO,"R$ 5,79",Gasolina Aditivada,2022-09-26,18:36:28
+Posto Luziânia,"Rua Sebastião Elias, 28 Centro",Luziânia - GO,"R$ 3,21",Etanol,2022-09-26,18:36:28
+Posto Petros III,"Rua Seis, S/N Jardim Zuleika Maria de Brasília",Luziânia - GO,"R$ 3,23",Etanol,2022-09-26,18:36:28
+Posto Petros,"Rua São Paulo, S/N Cidade Osfaya",Luziânia - GO,"R$ 3,23",Etanol,2022-09-26,18:36:28
+Posto Kurujão 43,"Avenida Lucena Roriz, S/N Parque Estrela Dalva IX",Luziânia - GO,"R$ 3,24",Etanol,2022-09-26,18:36:28
+Posto Romeiros 4,"Avenida Santa Maria, S/N Setor Aeroporto",Luziânia - GO,"R$ 3,26",Etanol,2022-09-26,18:36:28
+Posto Santa Maria,"Rua do Comércio, 156 Centro",Luziânia - GO,"R$ 3,29",Etanol,2022-09-26,18:36:28
+Auto Posto Park JK,"Avenida Dona Sara Kubitschek, S/N Parque JK",Luziânia - GO,"R$ 3,29",Etanol,2022-09-26,18:36:28
+Posto Sansão,"Avenida Alfredo Nasser, S/N Parque Estrela Dalva I",Luziânia - GO,"R$ 3,29",Etanol,2022-09-26,18:36:28
+Posto Independência,"Avenida Joventino Rodrigues, S/N Santa Luzia",Luziânia - GO,"R$ 3,29",Etanol,2022-09-26,18:36:28
+Posto Alpha,"Avenida Dona Sara Kubitschek, S/N Parque JK",Luziânia - GO,"R$ 3,35",Etanol,2022-09-26,18:36:28
+Posto Kurujão 43,"Avenida Lucena Roriz, S/N Parque Estrela Dalva IX",Luziânia - GO,"R$ 6,67",Diesel S10,2022-09-26,18:36:29
+Posto Independência,"Avenida Joventino Rodrigues, S/N Santa Luzia",Luziânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:29
+Posto Santa Maria,"Rua do Comércio, 156 Centro",Luziânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:29
+Posto Luziânia,"Rua Sebastião Elias, 28 Centro",Luziânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:29
+Posto Sansão,"Avenida Alfredo Nasser, S/N Parque Estrela Dalva I",Luziânia - GO,"R$ 6,79",Diesel S10,2022-09-26,18:36:29
+Posto Alpha,"Avenida Dona Sara Kubitschek, S/N Parque JK",Luziânia - GO,"R$ 6,85",Diesel S10,2022-09-26,18:36:29
+Posto Romeiros 4,"Avenida Santa Maria, S/N Setor Aeroporto",Luziânia - GO,"R$ 6,87",Diesel S10,2022-09-26,18:36:29
+Auto Posto Park JK,"Avenida Dona Sara Kubitschek, S/N Parque JK",Luziânia - GO,"R$ 6,89",Diesel S10,2022-09-26,18:36:29
+Posto Imperial,"Avenida Alfredo Nasser, S/N Parque Estrela Dalva II",Luziânia - GO,"R$ 6,89",Diesel S10,2022-09-26,18:36:29
+Posto Ello,"Avenida Dona Sara Kubitschek, S/N Parque JK",Luziânia - GO,"R$ 6,99",Diesel S10,2022-09-26,18:36:29
+Posto São Roque Nelore,"Rodovia BR 040, S/N Parque Estrela Dalva III",Luziânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:30
+Posto Masut I,"Rodovia BR 040, quadra 68 Parque Industrial Mingone",Luziânia - GO,"R$ 3,79",GNV,2022-09-26,18:36:30
+Posto Carrefour,"Avenida Joao Naves Avila, 1441 Parte Santa Maria",Uberlândia - MG,"R$ 4,54",Gasolina Comum,2022-09-26,18:36:34
+Posto Montreal,"Avenida Anselmo Alves dos Santos, 1065 Santa Mônica",Uberlândia - MG,"R$ 4,57",Gasolina Comum,2022-09-26,18:36:34
+Posto Galícia,"Avenida Belarmino Cotta Pacheco, 1835 Santa Mônica",Uberlândia - MG,"R$ 4,57",Gasolina Comum,2022-09-26,18:36:34
+Posto Zipin,"Avenida Joao Naves de Avila, 1590 Saraiva",Uberlândia - MG,"R$ 4,57",Gasolina Comum,2022-09-26,18:36:34
+Posto Milani,"Avenida Anselmo Alves dos Santos, 1000 Santa Mônica",Uberlândia - MG,"R$ 4,57",Gasolina Comum,2022-09-26,18:36:34
+Posto Mônaco,"Avenida Segismundo Pereira, 2872 Santa Mônica",Uberlândia - MG,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:34
+Posto Camaru,"Avenida Juracy Junqueira de Rezende, 121 Pampulha",Uberlândia - MG,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:34
+Posto Piauhy,"Rua Professor Pedro Bernardo, 142 Centro",Uberlândia - MG,"R$ 4,59",Gasolina Comum,2022-09-26,18:36:34
+Posto Eldorado 7,"Avenida Floriano Peixoto, 4381 Custódio Pereira",Uberlândia - MG,"R$ 4,66",Gasolina Comum,2022-09-26,18:36:34
+Posto Imperial,"Avenida Getulio Vargas, 710 Martins",Uberlândia - MG,"R$ 4,67",Gasolina Comum,2022-09-26,18:36:34
+Posto Galícia,"Avenida Belarmino Cotta Pacheco, 1835 Santa Mônica",Uberlândia - MG,"R$ 4,57",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Camaru,"Avenida Juracy Junqueira de Rezende, 121 Pampulha",Uberlândia - MG,"R$ 4,59",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Zipin,"Avenida Joao Naves de Avila, 1590 Saraiva",Uberlândia - MG,"R$ 4,67",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Cazeca,"Avenida Rio Branco, 964 Cazeca",Uberlândia - MG,"R$ 4,69",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Piauhy,"Rua Professor Pedro Bernardo, 142 Centro",Uberlândia - MG,"R$ 4,69",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Mônaco,"Avenida Segismundo Pereira, 2872 Santa Mônica",Uberlândia - MG,"R$ 4,69",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Xodó,"Avenida Brasil, 4355 Umuarama",Uberlândia - MG,"R$ 4,73",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Carrefour,"Avenida Joao Naves Avila, 1441 Parte Santa Maria",Uberlândia - MG,"R$ 4,74",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Montreal,"Avenida Anselmo Alves dos Santos, 1065 Santa Mônica",Uberlândia - MG,"R$ 4,76",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Cajubá,"Avenida Rondon Pacheco, 2184 Vila Povoa",Uberlândia - MG,"R$ 4,76",Gasolina Aditivada,2022-09-26,18:36:35
+Posto Imperial,"Avenida Getulio Vargas, 710 Martins",Uberlândia - MG,"R$ 2,97",Etanol,2022-09-26,18:36:35
+Posto Rodrigues,"Avenida Belarmino Cotta Pacheco, 432 Santa Mônica",Uberlândia - MG,"R$ 2,97",Etanol,2022-09-26,18:36:35
+Posto Eldorado 7,"Avenida Floriano Peixoto, 4381 Custódio Pereira",Uberlândia - MG,"R$ 2,97",Etanol,2022-09-26,18:36:35
+Posto Zipin,"Avenida Joao Naves de Avila, 1590 Saraiva",Uberlândia - MG,"R$ 2,97",Etanol,2022-09-26,18:36:35
+Posto Montreal,"Avenida Anselmo Alves dos Santos, 1065 Santa Mônica",Uberlândia - MG,"R$ 2,99",Etanol,2022-09-26,18:36:35
+Posto Carrefour,"Avenida Joao Naves Avila, 1441 Parte Santa Maria",Uberlândia - MG,"R$ 2,99",Etanol,2022-09-26,18:36:35
+Auto Posto Mineirão,"Avenida Floriano Peixoto, 4288 Brasil",Uberlândia - MG,"R$ 2,99",Etanol,2022-09-26,18:36:35
+Posto Brasília,"Avenida Floriano Peixoto, 2.376 Operário",Uberlândia - MG,"R$ 2,99",Etanol,2022-09-26,18:36:35
+Auto Posto Lunasa,"Rua Padre Americo Ceppi, 398 Brasil",Uberlândia - MG,"R$ 2,99",Etanol,2022-09-26,18:36:35
+Posto Mônaco,"Avenida Segismundo Pereira, 2872 Santa Mônica",Uberlândia - MG,"R$ 2,99",Etanol,2022-09-26,18:36:35
+Posto Planalto,"Rodovia Br 050, S/n Km 69/70 Minas Gerais",Uberlândia - MG,"R$ 6,57",Diesel S10,2022-09-26,18:36:36
+Posto Camaru,"Avenida Juracy Junqueira de Rezende, 121 Pampulha",Uberlândia - MG,"R$ 6,60",Diesel S10,2022-09-26,18:36:36
+Posto Cazeca,"Avenida Rio Branco, 964 Cazeca",Uberlândia - MG,"R$ 6,69",Diesel S10,2022-09-26,18:36:36
+Posto Galícia,"Avenida Belarmino Cotta Pacheco, 1835 Santa Mônica",Uberlândia - MG,"R$ 6,74",Diesel S10,2022-09-26,18:36:36
+Posto México,"Avenida Fernando Vilela, 96 Martins",Uberlândia - MG,"R$ 6,74",Diesel S10,2022-09-26,18:36:36
+Posto Milani,"Avenida Anselmo Alves dos Santos, 1000 Santa Mônica",Uberlândia - MG,"R$ 6,74",Diesel S10,2022-09-26,18:36:36
+Posto Xodó,"Avenida Brasil, 4355 Umuarama",Uberlândia - MG,"R$ 6,77",Diesel S10,2022-09-26,18:36:36
+Posto Cajubá,"Avenida Rondon Pacheco, 2184 Vila Povoa",Uberlândia - MG,"R$ 6,77",Diesel S10,2022-09-26,18:36:36
+Auto Posto 2 Irmãos,"Rua Rio Grande do Sul, 1459 Brasil",Uberlândia - MG,"R$ 6,77",Diesel S10,2022-09-26,18:36:36
+Posto Milani,"Avenida Joao Naves de Avila, 7.066 A Santa Mônica",Uberlândia - MG,"R$ 6,77",Diesel S10,2022-09-26,18:36:36
+Posto Nacional,"Rodovia BR 452, Km 170 Zona Rural",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
+Posto Lunasa III,"Rua Monte Carmelo, 1202 Osvaldo Rezende",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
+Posto Cerrado,"Rodovia BR 452, Km 128 Zona Rural",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
+Posto Zumpano,"Avenida Aírton Borges da Silva, 135 Minas Gerais",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
+Via Sul Posto,"Rua da Carioca, 2077 Patrimônio",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
+Posto Shopping Park,"Avenida Nicomedes Alves dos Santos, 6501 Shopping Park",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
+Posto Laranjeiras,"Rodovia BR 365, Km 643 Zona Rural",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
+Posto Moinho,"Avenida Professor José Inácio de Souza, 361 Brasil",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
+Posto Irati,"BR 050, Km 78 São Jorge",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
+Posto Amigão,"Avenida José Andraus Gassani, 7965 Distrito Industrial",Uberlândia - MG,"R$ 3,79",GNV,2022-09-26,18:36:37
